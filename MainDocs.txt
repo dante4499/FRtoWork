@@ -1,0 +1,5 @@
+CODE_EX_1
+Location:
+REPO:FRtoWork: JAVA/1.-ListaEnlazada/LinkedList
+Function:
+Project to Work LinkedList (values,nodes(pointer)) and It contents a file html with classes diagram JavaDoc
